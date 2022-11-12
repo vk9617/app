@@ -1,1 +1,1 @@
-# amaz-app
+app
